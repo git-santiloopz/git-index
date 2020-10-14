@@ -16,6 +16,12 @@ git config --global <key> "<value>" # i.e user.email
 ```shell
 git branch -a
 ```
+
+### Tack remote branches
+```shell
+git checkout -b local-branch-name <remote-branch-to-track> # i.e origin/feature-whateva
+```
+
 what does it mean fast-forward vs no-ff vs squash?
 
 cherry-pick a feature?
