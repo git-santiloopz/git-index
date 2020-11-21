@@ -22,6 +22,11 @@ git branch -a
 git checkout -b local-branch-name <remote-branch-to-track> # i.e origin/feature-whateva
 ```
 
+### Do not track file permissions changes
+```shell
+git config core.fileMode false
+```
+
 what does it mean fast-forward vs no-ff vs squash?
 
 cherry-pick a feature?
