@@ -5,6 +5,7 @@
 1. [Commit Best Practises](https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99)
 1. [Autosquashing Git Commits](https://thoughtbot.com/blog/autosquashing-git-commits)
 1. [Squash Commits Into One](https://www.internalpointers.com/post/squash-commits-into-one-git)
+1. [Guide to Meaningful Commit Messages](https://medium.com/swlh/writing-better-commit-messages-9b0b6ff60c67)
 
 ### Glossary
 * rebase
