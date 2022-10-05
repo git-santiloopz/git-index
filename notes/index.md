@@ -1,4 +1,5 @@
 # Index
+1. [Releases](releases.md)
 
 ### Resources
 1. [Commit Message Imperative Style](https://chris.beams.io/posts/git-commit/#imperative)
